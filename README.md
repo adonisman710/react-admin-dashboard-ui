@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![View Site](Capture.PNG)
+[View Site]([Capture.PNG](https://admin-uidashboard.netlify.app/))
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
